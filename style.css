@@ -130,7 +130,7 @@ background:none;
 #epay_main
 {
 	left:0;
-	margin-left:50;
+	margin-left:0;
 	padding-left:0;
 
 }
@@ -147,5 +147,5 @@ background:none;
 	width:100%;
 	text-align:center;
 	background:none;
-	color:black;
+	color:red;
 }
